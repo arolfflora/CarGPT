@@ -1,0 +1,6 @@
+{
+    "model_type": "baichuan",
+    "base_model_name_or_path": "baichuan-inc/baichuan-7B",
+    "peft_model_path": "output/firefly-baichuan-7b/final",
+    "output_dir": "output/firefly-baichuan-7b/merge"
+}
